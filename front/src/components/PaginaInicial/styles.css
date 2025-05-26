@@ -1,0 +1,85 @@
+/* src\components\BemVindo\styles.css */
+
+.pagina-cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 32px;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.cadastrar, .usuarios {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1{
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.botoes-container {
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background 0.3s;
+}
+
+
+.link-usuarios,
+.link-cadastrar {
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container-logos {
+    display: block;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-circulo {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.logo-ancora {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.logo-cp {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.nome-time{
+    color: rgb(253, 253, 253);
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
