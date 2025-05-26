@@ -4,7 +4,7 @@ Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadast
 
 ## Tela: Inicial
 
-<img src=""></img>
+![tela inicial](imagens/paginainicial.png)
 
 ## Tela: Cadastro
 <img src=""></img>
