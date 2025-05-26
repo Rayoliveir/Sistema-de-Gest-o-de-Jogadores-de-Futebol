@@ -1,12 +1,18 @@
-# Sistema-de-Gest-o-de-Jogadores-de-Futebol
+# Sistema de gestão de jogadores de futebol
 Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadastro, listagem e visualização dos detalhes dos jogadores, consumindo dados de uma API.
 
 
 ## Tela: Inicial
 
-![tela inicial](imagens/paginainicial.png)
+<img src="Imagens/pagina_inicial.png"></img>
 
 ## Tela: Cadastro
-<img src=""></img>
+<img src="Imagens/pagina_cadastro.png"></img>
+
 ## Tela: Listar Jogadores
-<img src=""></img>
+<img src="Imagens/pagina_lista.png"></img>
+
+## Tela: Listar Jogadores
+<img src="Imagens/codigo_rotas.png"></img>
+
+
