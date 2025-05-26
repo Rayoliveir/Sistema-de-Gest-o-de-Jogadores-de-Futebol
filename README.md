@@ -12,7 +12,7 @@ Este projeto tem como objetivo gerenciar jogadores de futebol, permitindo cadast
 ## Tela: Listar Jogadores
 <img src="Imagens/pagina_lista.png"></img>
 
-## Tela: Listar Jogadores
+## Sistemas de rotas
 <img src="Imagens/codigo_rotas.png"></img>
 
 
